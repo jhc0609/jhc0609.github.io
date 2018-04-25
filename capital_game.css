@@ -1,0 +1,26 @@
+body {
+    background-color: #eee;
+}
+
+/*your code here*/
+
+    th {
+        text-align: left;
+        font-weight: bold;
+
+    }
+    
+    tr.correct {
+        color: blue;
+    }
+    
+    tr.incorrect {
+        color: red;
+    }
+    h1{
+        font-family: 'Tangerine', serif;
+    }
+    .entire {
+        width: 500px;
+        margin:0 auto;
+    }
